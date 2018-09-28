@@ -1,4 +1,4 @@
- **Retropie
+ **Retropie**
  Instalacao do retropie no linux mint 19
  
  **1Passo:** No terminal atualize o pacote APT usando o seguinte comando.
